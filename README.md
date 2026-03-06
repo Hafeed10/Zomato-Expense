@@ -1,11 +1,9 @@
 # Food Stats - Zomato Food Expense Tracker 🍛
 
-[![Watch the Tutorial](https://img.youtube.com/vi/LVZYsjUwDmY/maxresdefault.jpg)](https://youtu.be/LVZYsjUwDmY)
 
 **Food Stats** is a Chrome extension that gives you deep insights into your Zomato ordering habits. It analyzes your order history to provide a beautiful, privacy-first dashboard showing your total spending, top restaurants, and ordering trends.
 
 > **Live Extension:** [Available on Chrome Web Store](https://chromewebstore.google.com/detail/food-stats/ojmpicpmgjgjhlckcmfgcheeekpaikka)  
-> **YouTube Tutorial:** [Watch How We Built This](https://youtu.be/LVZYsjUwDmY?si=COi7sCQCC4tob6N9)
 
 ---
 
@@ -35,7 +33,7 @@ If you want to run this extension locally or contribute to the code:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Jobin-S/Food-stats-extenstion.git
+   https://github.com/Hafeed10/Zomato-Expense.git
    cd Food-stats-extenstion
    ```
 
@@ -60,20 +58,7 @@ If you want to run this extension locally or contribute to the code:
 
 ---
 
-## 👨‍💻 Credits
 
-This project was built and hosted by:
-
-- **Host**: Jobin Selvanose
-- **Co-host**: Umar Muqthar
-
-### 🌟 Contributors
-
-- [MuhmdAjeer](https://github.com/MuhmdAjeer)
-
-> 💡 **Want to contribute?** Check out our [Contribution Guidelines](CONTRIBUTING.md)!
-
-Built with ❤️ from Kerala.
 
 ---
 
